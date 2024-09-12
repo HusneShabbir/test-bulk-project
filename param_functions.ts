@@ -13,7 +13,7 @@ async function login_functionality({page}){
     await page.getByRole('button', { name: 'Verify' }).click();
     //getByLabel('Select to get a push')
     await page.getByLabel('Select to get a push').click();
-
+    aditya ki demo chupidam
 }
 
 export{login_functionality}
