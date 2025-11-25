@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aditya_project
+  annotations:
+    github.com/project-slug: HusneShabbir/aditya_project
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/guest
