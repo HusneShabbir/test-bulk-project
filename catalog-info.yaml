@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: aditya_project
+  name: test-bulk-project
   annotations:
     github.com/project-slug: HusneShabbir/test-bulk-project
 spec:
