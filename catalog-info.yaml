@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: aditya_project
   annotations:
-    github.com/project-slug: HusneShabbir/aditya_project
+    github.com/project-slug: HusneShabbir/test-bulk-project
 spec:
   type: other
   lifecycle: unknown
